@@ -1,0 +1,60 @@
+%% Workflow do Projeto
+%% Prompt Engineering Frameworks
+%% Author: Rubens Renato e Silva
+
+flowchart TD
+
+    START([Início])
+
+    START --> Q["Leitura da Questão"]
+
+    Q --> ANALYSIS["Análise do Problema"]
+
+    ANALYSIS --> FRAMEWORK{"Selecionar Framework"}
+
+    FRAMEWORK -->|Artefato Técnico| RTF["R-T-F"]
+
+    FRAMEWORK -->|Análise| TAG["T-A-G"]
+
+    FRAMEWORK -->|Transformação| BAB["B-A-B"]
+
+    FRAMEWORK -->|Padrão Corporativo| CARE["C-A-R-E"]
+
+    FRAMEWORK -->|Incidente / Operação| RISE["R-I-S-E"]
+
+    RTF --> PROMPT
+
+    TAG --> PROMPT
+
+    BAB --> PROMPT
+
+    CARE --> PROMPT
+
+    RISE --> PROMPT
+
+    PROMPT["Construção do Prompt"]
+
+    PROMPT --> MODEL["Escolha do Modelo de IA"]
+
+    MODEL --> EXECUTION["Execução do Prompt"]
+
+    EXECUTION --> OUTPUT["Análise do Output"]
+
+    OUTPUT --> REVIEW{"Resultado Atendeu?"}
+
+    REVIEW -->|Não| PROMPT
+
+    REVIEW -->|Sim| DOCUMENT["Documentação da Questão"]
+
+    DOCUMENT --> README["Atualização do README"]
+
+    README --> GIT["Versionamento com Git"]
+
+    GIT --> END([Projeto Atualizado])
+
+    style START fill:#4CAF50,color:#ffffff
+    style END fill:#4CAF50,color:#ffffff
+    style FRAMEWORK fill:#FF9800,color:#ffffff
+    style MODEL fill:#2196F3,color:#ffffff
+    style REVIEW fill:#F44336,color:#ffffff
+    style DOCUMENT fill:#9C27B0,color:#ffffff

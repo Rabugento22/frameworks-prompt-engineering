@@ -1,0 +1,37 @@
+%% Prompt Lifecycle
+%% Prompt Engineering Frameworks
+%% Author: Rubens Renato e Silva
+
+flowchart LR
+
+    A["Problema"] --> B["Análise do Contexto"]
+
+    B --> C["Escolha do Framework"]
+
+    C --> D["Construção do Prompt"]
+
+    D --> E["Seleção do Modelo de IA"]
+
+    E --> F["Execução"]
+
+    F --> G["Output Gerado"]
+
+    G --> H{"Output atende ao objetivo?"}
+
+    H -->|Não| I["Refinamento do Prompt"]
+
+    I --> D
+
+    H -->|Sim| J["Validação Técnica"]
+
+    J --> K["Documentação"]
+
+    K --> L["Versionamento"]
+
+    L --> M["Conhecimento Reutilizável"]
+
+    style A fill:#1976D2,color:#ffffff
+    style C fill:#388E3C,color:#ffffff
+    style E fill:#FF9800,color:#ffffff
+    style H fill:#D32F2F,color:#ffffff
+    style M fill:#7B1FA2,color:#ffffff

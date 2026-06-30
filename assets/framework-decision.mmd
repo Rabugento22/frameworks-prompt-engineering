@@ -1,0 +1,37 @@
+%% Framework Decision Tree
+%% Prompt Engineering Frameworks
+%% Author: Rubens Renato e Silva
+
+flowchart TD
+
+    START([Início])
+
+    START --> Q1{O objetivo é gerar um artefato técnico?}
+
+    Q1 -->|Sim| RTF[R-T-F]
+
+    Q1 -->|Não| Q2{É uma análise ou relatório?}
+
+    Q2 -->|Sim| TAG[T-A-G]
+
+    Q2 -->|Não| Q3{Existe uma solução atual que será transformada?}
+
+    Q3 -->|Sim| BAB[B-A-B]
+
+    Q3 -->|Não| Q4{Existe padrão corporativo ou exemplo?}
+
+    Q4 -->|Sim| CARE[C-A-R-E]
+
+    Q4 -->|Não| Q5{É um incidente, operação ou troubleshooting?}
+
+    Q5 -->|Sim| RISE[R-I-S-E]
+
+    Q5 -->|Não| REVIEW[Reavaliar o problema]
+
+    style START fill:#4CAF50,color:#ffffff
+    style RTF fill:#2196F3,color:#ffffff
+    style TAG fill:#FF9800,color:#ffffff
+    style BAB fill:#9C27B0,color:#ffffff
+    style CARE fill:#009688,color:#ffffff
+    style RISE fill:#F44336,color:#ffffff
+    style REVIEW fill:#757575,color:#ffffff
