@@ -18,6 +18,36 @@ Cada atividade foi documentada seguindo uma estrutura padronizada, permitindo an
 
 ---
 
+---
+
+# 🧭 Como Navegar pelo Projeto
+
+Este repositório foi estruturado para proporcionar uma experiência de leitura organizada e progressiva, permitindo compreender desde os conceitos fundamentais de Prompt Engineering até a aplicação prática dos frameworks em diferentes cenários.
+
+Para facilitar essa navegação, foi criado um guia específico contendo:
+
+- Visão geral da estrutura do repositório;
+- Finalidade de cada documento;
+- Ordem recomendada de leitura;
+- Organização interna das questões;
+- Diagramas de navegação em Mermaid;
+- Fluxos sugeridos para diferentes perfis de leitores.
+
+📄 **Guia de Navegação:** [NAVIGATION.md](NAVIGATION.md)
+
+### 🚀 Primeiros Passos
+
+1. **README.md** — Visão geral do projeto.
+2. **NAVIGATION.md** — Estrutura e roteiro de navegação.
+3. **frameworks.md** — Conceitos dos frameworks.
+4. **framework-comparison.md** — Comparação entre os frameworks.
+5. **decision-tree.md** — Fluxograma de decisão.
+6. **Questões 01 a 08** — Desenvolvimento das atividades.
+7. **lessons-learned.md** — Lições aprendidas.
+8. **references.md** — Referências.
+
+---
+
 ## 🎯 Objetivos
 
 - Estudar os principais frameworks de Prompt Engineering.
