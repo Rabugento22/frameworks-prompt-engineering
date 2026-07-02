@@ -6,7 +6,7 @@ O formato adotado é baseado no padrão **Keep a Changelog** e segue, sempre que
 
 ---
 
-## [1.0.0] - 2026-06-29
+## [1.0.1] - 2026-07-02
 
 ### Adicionado
 
