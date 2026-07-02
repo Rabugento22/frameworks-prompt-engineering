@@ -1,3 +1,7 @@
+🏠 [Projeto](../README.md) | 📑 [Sumário](../SUMMARY.md) | 🧭 [Navegação](../NAVIGATION.md) | 📘 [Questão](README.md)
+
+---
+
 # Modelo de IA
 
 ## Modelo Utilizado
@@ -64,3 +68,7 @@ Aspectos como políticas internas de segurança, versões de imagens e requisito
 # Conclusão
 
 A escolha do GPT-4o mostrou-se adequada para esta atividade, produzindo um Dockerfile consistente, bem estruturado e alinhado aos objetivos definidos no desafio.
+
+---
+
+⬅️ Anterior | 🏠 Projeto | 📑 Sumário | ➡️ Próximo

@@ -1,3 +1,7 @@
+🏠 [Projeto](../README.md) | 📑 [Sumário](../SUMMARY.md) | 🧭 [Navegação](../NAVIGATION.md) | 📘 [Questão](README.md)
+
+---
+
 # Contexto da Questão 01
 
 ## Cenário
@@ -93,3 +97,7 @@ Embora o cenário tenha sido suficiente para produzir um Dockerfile de qualidade
 - geração automática de SBOM (*Software Bill of Materials*).
 
 Essas sugestões representam possíveis evoluções para ambientes corporativos e **não alteram o escopo da atividade originalmente proposta**.
+
+---
+
+⬅️ Anterior | 🏠 Projeto | 📑 Sumário | ➡️ Próximo

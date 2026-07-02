@@ -1,3 +1,7 @@
+🏠 [Projeto](../README.md) | 📑 [Sumário](../SUMMARY.md) | 🧭 [Navegação](../NAVIGATION.md) | 📘 [Questão](README.md)
+
+---
+
 # Output Produzido pelo Modelo
 
 ## Objetivo
@@ -97,3 +101,7 @@ O conteúdo apresentado neste documento corresponde ao **output original produzi
 Para preservar a fidelidade do trabalho acadêmico, nenhuma modificação funcional foi realizada no Dockerfile. Apenas a formatação foi ajustada para facilitar a leitura no GitHub.
 
 As oportunidades de evolução identificadas após a análise serão apresentadas separadamente no arquivo **`06-melhorias.md`**, sem alterar a resposta originalmente gerada pelo modelo.
+
+---
+
+⬅️ Anterior | 🏠 Projeto | 📑 Sumário | ➡️ Próximo

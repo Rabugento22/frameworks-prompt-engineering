@@ -1,3 +1,7 @@
+🏠 [Projeto](../README.md) | 📑 [Sumário](../SUMMARY.md) | 🧭 [Navegação](../NAVIGATION.md) | 📘 [Questão](README.md)
+
+---
+
 # Justificativa da Escolha do Framework
 
 ## Questão 01
@@ -107,3 +111,7 @@ Caso esta atividade fosse aplicada em um ambiente corporativo, o prompt poderia 
 - conformidade com padrões internos de segurança e governança.
 
 Essas sugestões representam possibilidades de evolução do experimento e **não alteram o conteúdo originalmente produzido pelo modelo de IA**.
+
+---
+
+⬅️ Anterior | 🏠 Projeto | 📑 Sumário | ➡️ Próximo

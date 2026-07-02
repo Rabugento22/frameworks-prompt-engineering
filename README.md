@@ -35,16 +35,19 @@ Para facilitar essa navegação, foi criado um guia específico contendo:
 
 📄 **Guia de Navegação:** [NAVIGATION.md](NAVIGATION.md)
 
+📑 **Índice Geral do Projeto:** [SUMMARY.md](SUMMARY.md)
+
 ### 🚀 Primeiros Passos
 
 1. **README.md** — Visão geral do projeto.
 2. **NAVIGATION.md** — Estrutura e roteiro de navegação.
-3. **frameworks.md** — Conceitos dos frameworks.
-4. **framework-comparison.md** — Comparação entre os frameworks.
-5. **decision-tree.md** — Fluxograma de decisão.
-6. **Questões 01 a 08** — Desenvolvimento das atividades.
-7. **lessons-learned.md** — Lições aprendidas.
-8. **references.md** — Referências.
+3. **SUMMARY.md** — Índice completo do projeto.
+4. **frameworks.md** — Conceitos dos frameworks.
+5. **framework-comparison.md** — Comparação entre os frameworks.
+6. **decision-tree.md** — Fluxograma de decisão.
+7. **Questões 01 a 08** — Desenvolvimento das atividades.
+8. **lessons-learned.md** — Lições aprendidas.
+9. **references.md** — Referências.
 
 ---
 
@@ -78,6 +81,7 @@ Durante o desenvolvimento do projeto foram utilizados os seguintes frameworks:
 prompt-engineering-frameworks/
 │
 ├── README.md
+├── SUMMARY.md
 ├── LICENSE
 ├── CHANGELOG.md
 ├── CONTRIBUTING.md
@@ -114,6 +118,7 @@ Todas as questões seguem exatamente o mesmo padrão de documentação.
 questao-XX/
 │
 ├── README.md
+├── SUMMARY.md
 ├── 01-contexto.md
 ├── 02-prompt.md
 ├── 03-modelo.md
