@@ -1,3 +1,9 @@
+---
+
+🏠 [Readme do Projeto](../README.md) | 📑 [Sumário](../SUMMARY.md) | 🧭 [Navegação](../NAVIGATION.md) | 🏠 [Readme da questão 02](README.md)
+
+---
+
 # Justificativa da Escolha do Framework
 
 ## Framework Utilizado
@@ -86,3 +92,9 @@ Essa observação foi destacada pelo próprio enunciado da atividade e represent
 O framework **R-T-F** mostrou-se adequado para esta atividade, permitindo estruturar um prompt claro, objetivo e consistente.
 
 Sua utilização contribuiu diretamente para que o modelo produzisse um script organizado, seguro e alinhado às boas práticas de automação operacional.
+
+---
+
+⬅️ [Anterior](04-output.md) | 🏠 [Projeto](../README.md)  | 📑 [Sumário](../SUMMARY.md) | ➡️ [Próximo](06-melhorias.md)
+
+---

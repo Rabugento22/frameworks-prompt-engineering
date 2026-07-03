@@ -1,3 +1,11 @@
+## 🔗 Navegação
+
+- 📑 [SUMÁRIO](../SUMMARY.md)
+- 🏠 [README do Projeto](../README.md)
+- ➡️ [Próxima questão](../questao-01/01-contexto.md)
+
+---
+
 # questao-02/03-modelo.md
 
 # Modelo de IA Utilizado
@@ -73,3 +81,9 @@ Como todo código gerado por IA, recomenda-se revisão humana antes da utilizaç
 # Conclusão
 
 O Claude Sonnet 4 mostrou-se altamente adequado para tarefas de automação operacional, produzindo um script consistente, organizado e alinhado às boas práticas de SRE e infraestrutura.
+
+---
+
+⬅️ [Anterior](02-prompt.md) | 🏠 [Projeto](../README.md)  | 📑 [Sumário](../SUMMARY.md) | ➡️ [Próximo](04-output.md)
+
+---

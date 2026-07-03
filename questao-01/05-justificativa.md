@@ -116,6 +116,6 @@ Essas sugestões representam possibilidades de evolução do experimento e **nã
 
 ---
 
-⬅️ [Anterior](04-output.md) | 🏠 [Projeto](../README.md)  | 📑 [Sumário](SUMMARY.md) | ➡️ [Próximo](06-melhorias.md)
+⬅️ [Anterior](04-output.md) | 🏠 [Projeto](../README.md)  | 📑 [Sumário](../SUMMARY.md) | ➡️ [Próximo](06-melhorias.md)
 
 ---

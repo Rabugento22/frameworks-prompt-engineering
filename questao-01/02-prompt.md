@@ -127,6 +127,6 @@ A divisão entre papel, tarefa e formato mostrou-se suficiente para orientar o m
 
 ---
 
-⬅️ [Anterior](01-contexto.md) | 🏠 [Projeto](../README.md)  | 📑 [Sumário](SUMMARY.md) | ➡️ [Próximo](03-modelo.md)
+⬅️ [Anterior](01-contexto.md) | 🏠 [Projeto](../README.md)  | 📑 [Sumário](../SUMMARY.md) | ➡️ [Próximo](03-modelo.md)
 
 ---

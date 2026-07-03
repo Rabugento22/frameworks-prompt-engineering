@@ -1,3 +1,9 @@
+---
+
+🏠 [Readme do Projeto](../README.md) | 📑 [Sumário](../SUMMARY.md) | 🧭 [Navegação](../NAVIGATION.md) | 🏠 [Readme da questão 02](README.md)
+
+---
+
 # Contexto da Questão 02
 
 ## Cenário
@@ -55,3 +61,9 @@ O framework R-T-F mostrou-se adequado para este cenário por permitir definir cl
 - como a resposta deverá ser apresentada.
 
 Essa organização favoreceu a geração de um script consistente e aderente aos requisitos definidos no desafio.
+
+---
+
+⬅️ [Anterior](README.md) | 🏠 [Projeto](../README.md)  | 📑 [Sumário](../SUMMARY.md) | ➡️ [Próximo](02-prompt.md)
+
+---

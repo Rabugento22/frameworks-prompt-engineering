@@ -102,6 +102,6 @@ Essas sugestões representam possíveis evoluções para ambientes corporativos 
 
 ---
 
-⬅️ [Anterior](README.md) | 🏠 [Projeto](../README.md)  | 📑 [Sumário](SUMMARY.md) | ➡️ [Próximo](02-prompt.md)
+⬅️ [Anterior](README.md) | 🏠 [Projeto](../README.md)  | 📑 [Sumário](../SUMMARY.md) | ➡️ [Próximo](02-prompt.md)
 
 ---

@@ -1,3 +1,9 @@
+---
+
+🏠 [Readme do Projeto](../README.md) | 📑 [Sumário](../SUMMARY.md) | 🧭 [Navegação](../NAVIGATION.md) | 🏠 [Readme da questão 02](README.md)
+
+---
+
 # Sugestões de Melhoria
 
 ## Objetivo
@@ -103,3 +109,9 @@ Outras melhorias possíveis:
 O script produzido durante o experimento atende plenamente aos requisitos definidos na atividade.
 
 As melhorias apresentadas representam práticas recomendadas para ambientes produtivos de grande porte e demonstram a evolução natural de uma solução inicialmente desenvolvida para fins acadêmicos.
+
+---
+
+⬅️ [Anterior](06-justificativas.md) | 🏠 [Projeto](../README.md)  | 📑 [Sumário](../SUMMARY.md) | ➡️ [Próximo](07-conclusao.md)
+
+---

@@ -73,6 +73,6 @@ A escolha do GPT-4o mostrou-se adequada para esta atividade, produzindo um Docke
 
 ---
 
-⬅️ [Anterior](02-prompt.md) | 🏠 [Projeto](../README.md)  | 📑 [Sumário](SUMMARY.md) | ➡️ [Próximo](04-output.md)
+⬅️ [Anterior](02-prompt.md) | 🏠 [Projeto](../README.md)  | 📑 [Sumário](../SUMMARY.md) | ➡️ [Próximo](04-output.md)
 
 ---

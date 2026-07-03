@@ -106,6 +106,6 @@ As oportunidades de evolução identificadas após a análise serão apresentada
 
 ---
 
-⬅️ [Anterior](03-modelo.md) | 🏠 [Projeto](../README.md)  | 📑 [Sumário](SUMMARY.md) | ➡️ [Próximo](05-justificativa.md)
+⬅️ [Anterior](03-modelo.md) | 🏠 [Projeto](../README.md)  | 📑 [Sumário](../SUMMARY.md) | ➡️ [Próximo](05-justificativa.md)
 
 ---

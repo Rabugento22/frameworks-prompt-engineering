@@ -1,3 +1,9 @@
+---
+
+🏠 [Readme do Projeto](../README.md) | 📑 [Sumário](../SUMMARY.md) | 🧭 [Navegação](../NAVIGATION.md) | 🏠 [Readme da questão 02](README.md)
+
+---
+
 # questao-02/04-output.md
 
 # Output Produzido pelo Modelo
@@ -168,3 +174,9 @@ O script atende integralmente aos requisitos definidos na atividade.
 Este documento preserva o output original do experimento.
 
 As sugestões de evolução identificadas durante a análise serão apresentadas separadamente no arquivo **06-melhorias.md**, preservando integralmente a solução produzida pelo modelo.
+
+---
+
+⬅️ [Anterior](03-modelo.md) | 🏠 [Projeto](../README.md)  | 📑 [Sumário](../SUMMARY.md) | ➡️ [Próximo](05-justificativa.md)
+
+---
