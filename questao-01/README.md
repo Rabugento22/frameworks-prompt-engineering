@@ -140,5 +140,5 @@ A definição explícita do papel do modelo, da tarefa e do formato esperado con
 ## 🔗 Navegação
 
 - 📑 [SUMÁRIO](../SUMMARY.md)
-- 🏠 [README Principal](../README.md)
+- 🏠 [README do Projeto](../README.md)
 - ➡️ [Próxima questão](../questao-01/01-contexto.md)

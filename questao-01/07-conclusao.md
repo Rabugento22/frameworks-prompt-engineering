@@ -1,4 +1,6 @@
-🏠 [Projeto](../README.md) | 📑 [Sumário](../SUMMARY.md) | 🧭 [Navegação](../NAVIGATION.md) | 📘 [Questão](README.md)
+---
+
+🏠 [Readme do Projeto](../README.md) | 📑 [Sumário](../SUMMARY.md) | 🧭 [Navegação](../NAVIGATION.md) | 🏠 [Readme da questão 01](README.md)
 
 ---
 
@@ -110,6 +112,6 @@ Nas questões seguintes serão explorados novos cenários, diferentes frameworks
 
 ---
 
-⬅️ [Anterior](06-melhorias.md) | 🏠 [Projeto](../README.md)  | 📑 [Sumário](SUMMARY.md) | ➡️ [Próximo](questao-02/README.md)
+⬅️ [Anterior](06-melhorias.md) | 🏠 [Projeto](../README.md)  | 📑 [Sumário](SUMMARY.md) | ➡️ [Próximo](../questao-02/README.md)
 
 ---
