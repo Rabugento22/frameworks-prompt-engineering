@@ -258,4 +258,6 @@ Dessa forma, preserva-se integralmente o resultado original do experimento, ao m
 
 ---
 
-⬅️ Anterior | 🏠 Projeto | 📑 Sumário | ➡️ Próximo
+⬅️ [Anterior](06-justificativas.md) | 🏠 [Projeto](../README.md)  | 📑 [Sumário](SUMMARY.md) | ➡️ [Próximo](07-conclusao.md)
+
+---
