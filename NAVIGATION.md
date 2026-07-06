@@ -442,3 +442,10 @@ A organização deste repositório foi planejada para proporcionar uma experiên
 A padronização dos diretórios, dos documentos e da estrutura de cada atividade facilita tanto a consulta pontual quanto a leitura completa do projeto, aproximando sua organização dos padrões adotados em projetos Open Source e documentações técnicas utilizadas por equipes de Engenharia de Software, DevOps, Platform Engineering e Site Reliability Engineering (SRE).
 
 Além de atender aos requisitos da disciplina, a estrutura busca demonstrar boas práticas de documentação técnica, organização do conhecimento e apresentação profissional de projetos desenvolvidos com apoio de Inteligência Artificial Generativa.
+
+## 🔗 Navegação
+
+- 📑 [SUMÁRIO](../SUMMARY.md)
+- 🏠 [README do Projeto](../README.md)
+
+---
