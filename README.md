@@ -389,3 +389,10 @@ Além da aplicação dos frameworks, o projeto também evidencia a importância 
 ---
 
 **Desenvolvido como atividade da disciplina de Fundamentos de Inteligência Artificial – Prompt Engineering.**
+
+## 🔗 Navegação
+
+- 📑 [SUMÁRIO](SUMMARY.md)
+- 🧭 [Guia de Navegação do Projeto](NAVIGATION.md)
+
+---

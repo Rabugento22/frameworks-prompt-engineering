@@ -1,3 +1,9 @@
+---
+
+🏠 [Readme do Projeto](../README.md) | 📑 [Sumário](../SUMMARY.md) | 🧭 [Navegação](../NAVIGATION.md) | 🏠 [Readme da questão 08](README.md)
+
+---
+
 # Conclusão
 
 ## Objetivo da Atividade
@@ -58,3 +64,9 @@ Os conhecimentos desenvolvidos podem ser aplicados em diversos cenários, como:
 A atividade atingiu plenamente seus objetivos ao demonstrar como o framework **R-I-S-E** pode orientar a geração de análises estruturadas, baseadas em evidências e voltadas para a tomada de decisão em ambientes distribuídos.
 
 Além disso, as sugestões de melhoria apresentadas — como indicadores DORA, metodologia dos Cinco Porquês, plano 5W2H e validações pós-rollback — aproximam o postmortem das práticas adotadas por organizações com alta maturidade em engenharia de confiabilidade, fortalecendo a cultura de melhoria contínua.
+
+---
+
+⬅️ [Anterior](06-melhorias.md) | 🏠 [Projeto](../README.md)  | 📑 [Sumário](../SUMMARY.md)
+
+---

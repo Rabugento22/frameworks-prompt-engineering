@@ -50,3 +50,9 @@ Durante esta atividade foram aplicados conhecimentos relacionados a:
 # Relação com o Framework
 
 O framework **R-I-S-E** mostrou-se particularmente adequado porque organiza a investigação em uma sequência lógica, permitindo que o modelo correlacione diferentes evidências antes de formular uma conclusão.
+
+---
+
+⬅️ [Anterior](README.md) | 🏠 [Projeto](../README.md)  | 📑 [Sumário](../SUMMARY.md) | ➡️ [Próximo](02-prompt.md)
+
+---

@@ -67,6 +67,6 @@ Além disso, as sugestões de melhoria apresentadas — como fluxogramas, automa
 
 ---
 
-⬅️ [Anterior](06-melhorias.md) | 🏠 [Projeto](../README.md)  | 📑 [Sumário](../SUMMARY.md)
+⬅️ [Anterior](06-melhorias.md) | 🏠 [Projeto](../README.md)  | 📑 [Sumário](../SUMMARY.md) | ➡️ [Próximo](../questao-08/README.md)
 
 ---

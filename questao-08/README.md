@@ -1,3 +1,11 @@
+## 🔗 Navegação
+
+- 📑 [SUMÁRIO](../SUMMARY.md)
+- 🏠 [README do Projeto](../README.md)
+- ➡️ [Próxima questão](../questao-08/01-contexto.md)
+
+---
+
 # Questão 08 – Postmortem Técnico de Incidente em Produção
 
 ## Objetivo

@@ -1,3 +1,9 @@
+---
+
+🏠 [Readme do Projeto](../README.md) | 📑 [Sumário](../SUMMARY.md) | 🧭 [Navegação](../NAVIGATION.md) | 🏠 [Readme da questão 08](README.md)
+
+---
+
 # Output Produzido pelo Modelo
 
 ## Objetivo
@@ -181,3 +187,9 @@ Essas mudanças provocaram o esgotamento do pool de conexões da aplicação, oc
 O postmortem produzido apresenta uma sequência lógica de investigação, apoiada por evidências técnicas e critérios objetivos para tomada de decisão.
 
 As oportunidades de evolução serão apresentadas separadamente no arquivo **06-melhorias.md**, preservando integralmente o resultado original do experimento.
+
+---
+
+⬅️ [Anterior](03-modelo.md) | 🏠 [Projeto](../README.md)  | 📑 [Sumário](../SUMMARY.md) | ➡️ [Próximo](05-justificativa.md)
+
+---

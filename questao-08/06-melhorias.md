@@ -1,3 +1,9 @@
+---
+
+🏠 [Readme do Projeto](../README.md) | 📑 [Sumário](../SUMMARY.md) | 🧭 [Navegação](../NAVIGATION.md) | 🏠 [Readme da questão 08](README.md)
+
+---
+
 # Sugestões de Melhoria
 
 ## Objetivo
@@ -156,3 +162,9 @@ Adicionar validações como:
 O postmortem produzido atende aos requisitos definidos na atividade.
 
 As melhorias apresentadas representam práticas amplamente utilizadas em ambientes corporativos modernos, contribuindo para fortalecer a prevenção de recorrências e a evolução contínua dos processos de resposta a incidentes.
+
+---
+
+⬅️ [Anterior](05-justificativas.md) | 🏠 [Projeto](../README.md)  | 📑 [Sumário](../SUMMARY.md) | ➡️ [Próximo](07-conclusao.md)
+
+---

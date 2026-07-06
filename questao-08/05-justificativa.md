@@ -1,3 +1,9 @@
+---
+
+🏠 [Readme do Projeto](../README.md) | 📑 [Sumário](../SUMMARY.md) | 🧭 [Navegação](../NAVIGATION.md) | 🏠 [Readme da questão 08](README.md)
+
+---
+
 # Justificativa da Escolha do Framework
 
 ## Framework Utilizado
@@ -115,3 +121,9 @@ O framework **R-I-S-E** mostrou-se o mais adequado por organizar todas essas inf
 O framework **R-I-S-E** apresentou excelente aderência ao problema proposto.
 
 Sua estrutura permitiu produzir um postmortem técnico consistente, baseado em evidências e compatível com os processos utilizados por equipes modernas de Site Reliability Engineering.
+
+---
+
+⬅️ [Anterior](04-output.md) | 🏠 [Projeto](../README.md)  | 📑 [Sumário](../SUMMARY.md) | ➡️ [Próximo](06-melhorias.md)
+
+---
