@@ -445,7 +445,7 @@ Além de atender aos requisitos da disciplina, a estrutura busca demonstrar boas
 
 ## 🔗 Navegação
 
-- 📑 [SUMÁRIO](../SUMMARY.md)
-- 🏠 [README do Projeto](../README.md)
+- 📑 [SUMÁRIO](SUMMARY.md)
+- 🏠 [README do Projeto](README.md)
 
 ---
