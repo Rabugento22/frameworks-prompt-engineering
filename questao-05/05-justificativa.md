@@ -1,3 +1,9 @@
+---
+
+🏠 [Readme do Projeto](../README.md) | 📑 [Sumário](../SUMMARY.md) | 🧭 [Navegação](../NAVIGATION.md) | 🏠 [Readme da questão 05](README.md)
+
+---
+
 # Justificativa da Escolha do Framework
 
 ## Framework Utilizado
@@ -73,3 +79,9 @@ Ao estruturar claramente o processo de transformação, torna-se mais simples pa
 # Conclusão
 
 O framework **B-A-B** mostrou excelente aderência ao desafio proposto, permitindo transformar um Deployment legado em um manifesto moderno, seguro e alinhado às recomendações atuais da comunidade Kubernetes.
+
+---
+
+⬅️ [Anterior](04-output.md) | 🏠 [Projeto](../README.md)  | 📑 [Sumário](../SUMMARY.md) | ➡️ [Próximo](06-melhorias.md)
+
+---

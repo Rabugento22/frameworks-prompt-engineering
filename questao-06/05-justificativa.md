@@ -1,3 +1,9 @@
+---
+
+🏠 [Readme do Projeto](../README.md) | 📑 [Sumário](../SUMMARY.md) | 🧭 [Navegação](../NAVIGATION.md) | 🏠 [Readme da questão 06](README.md)
+
+---
+
 # Justificativa da Escolha do Framework
 
 ## Framework Utilizado
@@ -83,3 +89,9 @@ Nesse contexto, o framework **C-A-R-E** mostrou-se especialmente adequado por fo
 O framework **C-A-R-E** apresentou excelente aderência à atividade proposta.
 
 Sua estrutura permitiu produzir um módulo Terraform organizado, reutilizável e compatível com os padrões técnicos e de governança estabelecidos pela organização.
+
+---
+
+⬅️ [Anterior](04-output.md) | 🏠 [Projeto](../README.md)  | 📑 [Sumário](../SUMMARY.md) | ➡️ [Próximo](06-melhorias.md)
+
+---

@@ -1,3 +1,9 @@
+---
+
+🏠 [Readme do Projeto](../README.md) | 📑 [Sumário](../SUMMARY.md) | 🧭 [Navegação](../NAVIGATION.md) | 🏠 [Readme da questão 06](README.md)
+
+---
+
 # Contexto da Questão 06
 
 ## Cenário
@@ -51,3 +57,9 @@ Durante esta atividade foram aplicados conhecimentos relacionados a:
 O framework **C-A-R-E** mostrou-se particularmente adequado porque fornece ao modelo todas as informações necessárias para compreender o contexto organizacional antes da geração da solução.
 
 Isso reduz ambiguidades e aumenta a aderência do código produzido aos padrões definidos pela empresa.
+
+---
+
+⬅️ [Anterior](README.md) | 🏠 [Projeto](../README.md)  | 📑 [Sumário](../SUMMARY.md) | ➡️ [Próximo](02-prompt.md)
+
+---

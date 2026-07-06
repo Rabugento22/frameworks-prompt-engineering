@@ -1,3 +1,9 @@
+---
+
+🏠 [Readme do Projeto](../README.md) | 📑 [Sumário](../SUMMARY.md) | 🧭 [Navegação](../NAVIGATION.md) | 🏠 [Readme da questão 03](README.md)
+
+---
+
 # Contexto da Questão 03
 
 ## Cenário
@@ -48,3 +54,9 @@ O framework **T-A-G** mostrou-se adequado por organizar o processo em três etap
 - foco no objetivo final do negócio.
 
 Essa estrutura orientou o modelo durante toda a análise e favoreceu a produção de um relatório consistente e voltado ao público executivo.
+
+---
+
+⬅️ [Anterior](README.md) | 🏠 [Projeto](../README.md)  | 📑 [Sumário](../SUMMARY.md) | ➡️ [Próximo](02-prompt.md)
+
+---

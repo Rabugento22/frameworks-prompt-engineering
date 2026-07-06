@@ -1,3 +1,10 @@
+TODOS
+---
+
+🏠 [Readme do Projeto](../README.md) | 📑 [Sumário](../SUMMARY.md) | 🧭 [Navegação](../NAVIGATION.md) | 🏠 [Readme da questão 04](README.md)
+
+---
+
 # Contexto da Questão 04
 
 ## Cenário
@@ -47,3 +54,9 @@ Durante esta atividade foram aplicados conhecimentos relacionados a:
 # Relação com o Framework
 
 O framework **T-A-G** permitiu organizar a atividade em uma sequência lógica de execução, reduzindo ambiguidades e aumentando a qualidade da consulta produzida pelo modelo.
+
+---
+
+⬅️ [Anterior](README.md) | 🏠 [Projeto](../README.md)  | 📑 [Sumário](../SUMMARY.md) | ➡️ [Próximo](02-prompt.md)
+
+---

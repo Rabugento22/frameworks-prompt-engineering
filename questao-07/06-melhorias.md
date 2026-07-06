@@ -1,3 +1,9 @@
+---
+
+🏠 [Readme do Projeto](../README.md) | 📑 [Sumário](../SUMMARY.md) | 🧭 [Navegação](../NAVIGATION.md) | 🏠 [Readme da questão 07](README.md)
+
+---
+
 # Sugestões de Melhoria
 
 ## Objetivo
@@ -150,3 +156,9 @@ Integrar o runbook com plataformas como Slack, Microsoft Teams ou PagerDuty para
 O runbook produzido pelo modelo atende aos requisitos definidos na atividade.
 
 As melhorias apresentadas representam práticas amplamente utilizadas por equipes SRE maduras, aumentando a eficiência operacional, a rastreabilidade e a capacidade de resposta durante incidentes em produção.
+
+---
+
+⬅️ [Anterior](05-justificativas.md) | 🏠 [Projeto](../README.md)  | 📑 [Sumário](../SUMMARY.md) | ➡️ [Próximo](07-conclusao.md)
+
+---

@@ -1,3 +1,9 @@
+---
+
+🏠 [Readme do Projeto](../README.md) | 📑 [Sumário](../SUMMARY.md) | 🧭 [Navegação](../NAVIGATION.md) | 🏠 [Readme da questão 04](README.md)
+
+---
+
 # Sugestões de Melhoria
 
 ## Objetivo
@@ -125,3 +131,9 @@ Antes da utilização em produção recomenda-se validar cenários como:
 A consulta produzida pelo modelo atende aos requisitos da atividade.
 
 As melhorias apresentadas representam práticas recomendadas para ambientes produtivos, tornando a solução mais performática, escalável e aderente às melhores práticas de administração de bancos PostgreSQL.
+
+---
+
+⬅️ [Anterior](05-justificativas.md) | 🏠 [Projeto](../README.md)  | 📑 [Sumário](../SUMMARY.md) | ➡️ [Próximo](07-conclusao.md)
+
+---

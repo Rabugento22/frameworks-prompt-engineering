@@ -1,3 +1,9 @@
+---
+
+🏠 [Readme do Projeto](../README.md) | 📑 [Sumário](../SUMMARY.md) | 🧭 [Navegação](../NAVIGATION.md) | 🏠 [Readme da questão 03](README.md)
+
+---
+
 # Justificativa da Escolha do Framework
 
 ## Framework Utilizado
@@ -80,3 +86,9 @@ Para esta atividade, o **T-A-G** apresentou melhor aderência por enfatizar o fl
 A escolha do framework **T-A-G** mostrou-se adequada para orientar a análise financeira proposta no desafio.
 
 Sua estrutura favoreceu a construção de um relatório executivo consistente, permitindo que o modelo relacionasse informações técnicas e financeiras em uma resposta objetiva e alinhada às necessidades da organização.
+
+---
+
+⬅️ [Anterior](04-output.md) | 🏠 [Projeto](../README.md)  | 📑 [Sumário](../SUMMARY.md) | ➡️ [Próximo](06-melhorias.md)
+
+---

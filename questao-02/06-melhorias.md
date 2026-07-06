@@ -112,6 +112,6 @@ As melhorias apresentadas representam práticas recomendadas para ambientes prod
 
 ---
 
-⬅️ [Anterior](06-justificativas.md) | 🏠 [Projeto](../README.md)  | 📑 [Sumário](../SUMMARY.md) | ➡️ [Próximo](07-conclusao.md)
+⬅️ [Anterior](05-justificativas.md) | 🏠 [Projeto](../README.md)  | 📑 [Sumário](../SUMMARY.md) | ➡️ [Próximo](07-conclusao.md)
 
 ---

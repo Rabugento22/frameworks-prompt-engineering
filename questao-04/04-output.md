@@ -1,3 +1,9 @@
+---
+
+🏠 [Readme do Projeto](../README.md) | 📑 [Sumário](../SUMMARY.md) | 🧭 [Navegação](../NAVIGATION.md) | 🏠 [Readme da questão 04](README.md)
+
+---
+
 # Output Produzido pelo Modelo
 
 ## Objetivo
@@ -93,3 +99,9 @@ Entretanto, a definição do período correspondente aos "últimos seis meses" p
 Essa observação foi destacada pelo próprio enunciado da atividade e representa um aspecto importante que deve ser validado antes da utilização da consulta em ambiente produtivo. :contentReference[oaicite:3]{index=3}
 
 As oportunidades de evolução serão apresentadas separadamente no arquivo **06-melhorias.md**, preservando integralmente o resultado original do experimento.
+
+---
+
+⬅️ [Anterior](03-modelo.md) | 🏠 [Projeto](../README.md)  | 📑 [Sumário](../SUMMARY.md) | ➡️ [Próximo](05-justificativa.md)
+
+---

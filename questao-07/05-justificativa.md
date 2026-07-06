@@ -1,3 +1,9 @@
+---
+
+🏠 [Readme do Projeto](../README.md) | 📑 [Sumário](../SUMMARY.md) | 🧭 [Navegação](../NAVIGATION.md) | 🏠 [Readme da questão 07](README.md)
+
+---
+
 # Justificativa da Escolha do Framework
 
 ## Framework Utilizado
@@ -73,3 +79,9 @@ O framework **R-I-S-E** mostrou-se especialmente adequado porque fornece context
 # Conclusão
 
 O framework **R-I-S-E** apresentou excelente aderência ao desafio proposto, permitindo gerar um runbook operacional claro, reutilizável e compatível com as práticas de Site Reliability Engineering adotadas em ambientes Kubernetes.
+
+---
+
+⬅️ [Anterior](04-output.md) | 🏠 [Projeto](../README.md)  | 📑 [Sumário](../SUMMARY.md) | ➡️ [Próximo](06-melhorias.md)
+
+---

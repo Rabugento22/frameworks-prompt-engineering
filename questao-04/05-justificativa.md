@@ -1,3 +1,9 @@
+---
+
+🏠 [Readme do Projeto](../README.md) | 📑 [Sumário](../SUMMARY.md) | 🧭 [Navegação](../NAVIGATION.md) | 🏠 [Readme da questão 04](README.md)
+
+---
+
 # Justificativa da Escolha do Framework
 
 ## Framework Utilizado
@@ -77,3 +83,9 @@ Antes da implementação em produção, recomenda-se validar essa regra junto à
 # Conclusão
 
 O framework **T-A-G** mostrou excelente aderência à atividade proposta, permitindo que o modelo produzisse uma consulta SQL consistente, organizada e alinhada às necessidades do negócio.
+
+---
+
+⬅️ [Anterior](04-output.md) | 🏠 [Projeto](../README.md)  | 📑 [Sumário](../SUMMARY.md) | ➡️ [Próximo](06-melhorias.md)
+
+---

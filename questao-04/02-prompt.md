@@ -1,3 +1,9 @@
+---
+
+🏠 [Readme do Projeto](../README.md) | 📑 [Sumário](../SUMMARY.md) | 🧭 [Navegação](../NAVIGATION.md) | 🏠 [Readme da questão 04](README.md)
+
+---
+
 # Prompt Utilizado
 
 ## Framework
@@ -65,3 +71,9 @@ A utilização do framework T-A-G proporcionou:
 - melhor interpretação das regras de negócio;
 - geração consistente da consulta SQL;
 - redução da necessidade de refinamentos posteriores.
+
+---
+
+⬅️ [Anterior](01-contexto.md) | 🏠 [Projeto](../README.md)  | 📑 [Sumário](../SUMMARY.md) | ➡️ [Próximo](03-modelo.md)
+
+---

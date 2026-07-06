@@ -1,3 +1,9 @@
+---
+
+🏠 [Readme do Projeto](../README.md) | 📑 [Sumário](../SUMMARY.md) | 🧭 [Navegação](../NAVIGATION.md) | 🏠 [Readme da questão 03](README.md)
+
+---
+
 # Sugestões de Melhoria
 
 ## Objetivo
@@ -107,3 +113,9 @@ Esses dados tornam as recomendações mais precisas e reduzem o risco de decisõ
 O relatório produzido pelo modelo atende aos objetivos da atividade e demonstra boa capacidade analítica.
 
 As melhorias apresentadas ampliam a maturidade da solução, aproximando-a das práticas de governança financeira normalmente adotadas em ambientes corporativos.
+
+---
+
+⬅️ [Anterior](05-justificativas.md) | 🏠 [Projeto](../README.md)  | 📑 [Sumário](../SUMMARY.md) | ➡️ [Próximo](07-conclusao.md)
+
+---

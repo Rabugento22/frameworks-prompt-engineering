@@ -1,3 +1,9 @@
+---
+
+🏠 [Readme do Projeto](../README.md) | 📑 [Sumário](../SUMMARY.md) | 🧭 [Navegação](../NAVIGATION.md) | 🏠 [Readme da questão 07](README.md)
+
+---
+
 # Contexto da Questão 07
 
 ## Cenário
@@ -53,3 +59,9 @@ Durante esta atividade foram aplicados conhecimentos relacionados a:
 O framework **R-I-S-E** mostrou-se adequado por organizar todas as informações necessárias antes da geração da documentação operacional.
 
 Essa estrutura fornece contexto suficiente para que o modelo produza um procedimento objetivo, consistente e aplicável em ambientes produtivos.
+
+---
+
+⬅️ [Anterior](README.md) | 🏠 [Projeto](../README.md)  | 📑 [Sumário](../SUMMARY.md) | ➡️ [Próximo](02-prompt.md)
+
+---

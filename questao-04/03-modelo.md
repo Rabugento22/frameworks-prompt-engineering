@@ -1,3 +1,9 @@
+---
+
+🏠 [Readme do Projeto](../README.md) | 📑 [Sumário](../SUMMARY.md) | 🧭 [Navegação](../NAVIGATION.md) | 🏠 [Readme da questão 04](README.md)
+
+---
+
 # Modelo de IA Utilizado
 
 ## Modelo
@@ -73,3 +79,9 @@ Esse tipo de requisito deve ser validado junto aos responsáveis pelo negócio a
 # Conclusão
 
 O Claude Sonnet 4 mostrou excelente desempenho na geração de consultas SQL analíticas, produzindo uma solução organizada, compatível com PostgreSQL e aderente aos requisitos definidos na atividade.
+
+---
+
+⬅️ [Anterior](02-prompt.md) | 🏠 [Projeto](../README.md)  | 📑 [Sumário](../SUMMARY.md) | ➡️ [Próximo](04-output.md)
+
+---

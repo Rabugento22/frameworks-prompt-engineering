@@ -1,3 +1,9 @@
+---
+
+🏠 [Readme do Projeto](../README.md) | 📑 [Sumário](../SUMMARY.md) | 🧭 [Navegação](../NAVIGATION.md) | 🏠 [Readme da questão 06](README.md)
+
+---
+
 # Prompt Utilizado
 
 ## Framework
@@ -90,3 +96,9 @@ A utilização do framework C-A-R-E proporcionou:
 - redução de inconsistências;
 - geração organizada dos arquivos Terraform;
 - elevada reutilização da solução produzida.
+
+---
+
+⬅️ [Anterior](01-contexto.md) | 🏠 [Projeto](../README.md)  | 📑 [Sumário](../SUMMARY.md) | ➡️ [Próximo](03-modelo.md)
+
+---

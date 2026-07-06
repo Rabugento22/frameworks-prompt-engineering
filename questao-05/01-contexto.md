@@ -1,3 +1,9 @@
+---
+
+🏠 [Readme do Projeto](../README.md) | 📑 [Sumário](../SUMMARY.md) | 🧭 [Navegação](../NAVIGATION.md) | 🏠 [Readme da questão 05](README.md)
+
+---
+
 # Contexto da Questão 05
 
 ## Cenário
@@ -51,3 +57,9 @@ Durante esta atividade foram aplicados conhecimentos relacionados a:
 # Relação com o Framework
 
 O framework **B-A-B** mostrou-se especialmente adequado porque descreve claramente a evolução entre um estado inicial vulnerável e um estado final seguro, orientando o modelo durante todo o processo de modernização.
+
+---
+
+⬅️ [Anterior](README.md) | 🏠 [Projeto](../README.md)  | 📑 [Sumário](../SUMMARY.md) | ➡️ [Próximo](02-prompt.md)
+
+---
