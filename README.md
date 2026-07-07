@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.svg" alt="Prompt Engineering Frameworks"/>
+  <img src="assets/banner.png" alt="Prompt Engineering Frameworks"/>
 </p>
 
 # 🚀 Prompt Engineering Frameworks
