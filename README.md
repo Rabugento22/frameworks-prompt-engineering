@@ -368,13 +368,17 @@ As orientações para contribuição e organização do projeto estão disponív
 
 ---
 
-# 📜 Licença
 
-Este projeto está licenciado sob a licença MIT.
+## 📄 Licença
 
-Consulte o arquivo:
+Este projeto foi desenvolvido para fins acadêmicos e como parte do meu portfólio profissional.
 
-- `LICENSE`
+O conteúdo pode ser utilizado como referência para estudos e pesquisas, desde que seja mantida a devida atribuição ao autor.
+
+Para mais informações, consulte o arquivo [LICENSE](LICENSE).
+
+© 2026 Rubens Renato e Silva. Todos os direitos reservados.
+
 
 ---
 
